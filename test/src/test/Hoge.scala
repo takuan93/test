@@ -11,7 +11,7 @@ class Hoge {
   }
   
   def print3(){
-    println("bar")
+    println("bar bar")
   }
 
 }
